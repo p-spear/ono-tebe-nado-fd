@@ -1,1 +1,1 @@
-https://github.com/p-spear/ono-tebe-nado
+https://github.com/p-spear/ono-tebe-nado-fd
